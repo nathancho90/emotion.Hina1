@@ -4,7 +4,9 @@
     {
       "src": "app.py",
       "use": "@vercel/python"
-      "PYTHON_VERSION": "3.9" 
-}
-  ]
+    }
+  ],
+  "env": {
+    "PYTHON_VERSION": "3.9"
+  }
 }
