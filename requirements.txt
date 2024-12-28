@@ -2,5 +2,5 @@ Flask==2.2.3
 openai==0.27.0
 python-dotenv==0.21.0
 transformers==4.30.0
-tokenizers>=0.20.0  # Avoid strict versioning
-tensorflow>=2.16.0  # Use a compatible version
+tokenizers==0.13.3
+tensorflow==2.16.0
